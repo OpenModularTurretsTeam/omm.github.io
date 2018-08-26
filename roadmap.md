@@ -15,11 +15,12 @@ Here is a list of planned features and changes in our mods.
  - Fluid Support for cooling bases
  - Laser rework (more realistic effects/behaviour)
  - Turrets honor team settings.
- - Railgun damage rework
- - Limits for how many turrets at one bases
- - Upgrade paths for bases
+ - Railgun damage now scales based on targets armor
+ - Limits for how many turrets at one base
+ - Recipe Upgrade paths for bases
  - Mod based recipes for addons/upgrades
-
+ - Thermal Expansion recipes
+ - Goggles for seeing turret/base stats remotely ingame
 
 ## __OMLib__
 ### _v4.0.x_
