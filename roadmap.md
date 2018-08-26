@@ -28,4 +28,4 @@ Here is a list of planned features and changes in our mods.
 ### _v3.1.x_
  - Fluid support for machinery
  - Custom Effect rendering system
- - eventually some custom damage calculation code
+ - networking cables (for OMTC)
