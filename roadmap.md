@@ -23,12 +23,13 @@ Here is a list of planned features and changes in our mods.
 #### _v3.1.x_
  - Fluid Support for cooling bases
  - Laser rework (more realistic effects/behaviour)
- - Turrets honor team settings.
+ - Turrets honor team settings
  - Railgun damage now scales based on targets armor
  - Limits for how many turrets at one base
  - Recipe Upgrade paths for bases
  - Mod based recipes for addons/upgrades
  - Thermal Expansion recipes
+
 
 ## __OMLib__
 #### _v4.0.x_
@@ -38,6 +39,16 @@ Here is a list of planned features and changes in our mods.
  - Fluid support for machinery
  - Custom Effect rendering system
  - networking cables (for OMTC)
+
+
+## __OpenModularPassiveDefense__
+#### _v4.0.x_
+ - Multiblocks
+
+#### _v3.1.x_
+ - camo traps that let player fall through them
+ - block that highlights nearby enemies
+
 
 ## __OMTControl (OMT Addon)__
 #### _v4.0.x_
