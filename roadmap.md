@@ -20,32 +20,37 @@ Here is a list of planned features and changes in our mods.
  - Particle Beam Turret (Tier 5) (Very high damage, very low firerate, large AOE offensive turret)
 
 
-#### _v3.1.x_
- - Fluid Support for cooling bases
- - Laser rework (more realistic effects/behaviour)
- - Turrets honor team settings
- - Railgun damage now scales based on targets armor
- - Limits for how many turrets at one base
- - Recipe Upgrade paths for bases
- - Mod based recipes for addons/upgrades
- - Thermal Expansion recipes
+#### _v3.1.x_ (in development)
+- _Add_: Turrets honor team settings
+- _Add_: base addon that removes loot from kills
+- _Add_: Limits for how many turrets at one base
+- _Add_: Recipe Upgrade paths for bases
+- _Add_: Mod based recipes for addons/upgrades
+- _Add_: config option to always conceal turrets
+- _Add_: light value and light opacity now configurable on tier 3+ bases
+- _Change_: Laser rework (more realistic effects/behaviour)
+- _Change_: Railgun rework (more realistic rendering/behaviour)
+- _Change_: Some GUI changes
+- _Change_: camo now supports way more blocks
+- _Change_: various bugfixes
 
 
 ## __OMLib__
 #### _v4.0.x_
  - Multiblock support code
 
-#### _v3.1.x_
+#### _v3.1.x_ (in development)
  - Fluid support for machinery
  - Custom Effect rendering system
  - networking cables (for OMTC)
+ - camo system extension
 
 
 ## __OpenModularPassiveDefense__
 #### _v4.0.x_
  - Multiblocks
 
-#### _v3.1.x_
+#### _v3.1.x_ (in development)
  - camo traps that let player fall through them
  - block that highlights nearby enemies
 
@@ -54,7 +59,7 @@ Here is a list of planned features and changes in our mods.
 #### _v4.0.x_
  - Multiblocks
 
-#### _v3.1.x_
+#### _v3.1.x_ (in development)
  - Remote Sensors
  - Block to limit turret firing angels
  - Hacking system for bases
