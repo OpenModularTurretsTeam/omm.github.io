@@ -8,19 +8,24 @@ Here is a list of planned features and changes in our mods.
 
 ## __OpenModularTurrets__
 #### _v4.0.x_
- - Multiblock bases
- - Turrets that require bigger bases
+ - _Add_:Multiblock bases
+ - _Add_:Turrets that require bigger bases
 
-#### _v3.2.x_
- - Melee Turret (Tier 1) (1 range medium damage offensive turret)
- - Repelling Turret (Tier 3) (Entity pushing utility turret)
- - Tractor Turret (Tier 3) (Entity pulling utility turret)
- - Arc Turret (Tier 4) (Multi target offensive turret)
- - Plasma Turret (Tier 5) (Medium damage, low firerate, small AOE offensive  turret)
- - Particle Beam Turret (Tier 5) (Very high damage, very low firerate, large AOE offensive turret)
+#### _v3.2.x_ (dev starting soon)
+ - _Add_: Global permission system (via OMLib)
+ - _Add_: new AI for Turrets
+ - _Change_: laser effect enhancements
+ - _Change_: smoke for the railgun
+ - ___Possible:___ (if the models/textures are ready when the rest is)
+ - _Add_: Melee Turret (Tier 1) (1 range medium damage offensive turret)
+ - _Add_: Repelling Turret (Tier 3) (Entity pushing utility turret)
+ - _Add_: Tractor Turret (Tier 3) (Entity pulling utility turret)
+ - _Add_: Arc Turret (Tier 4) (Multi target offensive turret)
+ - _Add_: Plasma Turret (Tier 5) (Medium damage, low firerate, small AOE offensive  turret)
+ - _Add_: Particle Beam Turret (Tier 5) (Very high damage, very low firerate, large AOE offensive turret)
 
 
-#### _v3.1.x_ (3.1.0 released, bugfixes will be made)
+#### _v3.1.x_ (3.1.x released, bugfixes will be made)
 - _Add_: Turrets honour team settings
 - _Add_: base addon that removes loot from kills
 - _Add_: Limits for how many turrets at one base
@@ -41,7 +46,12 @@ Here is a list of planned features and changes in our mods.
 #### _v4.0.x_
  - Multiblock support code
 
-#### _v3.1.x_ (3.1.0 released, bugfixes will be made)
+#### _v3.2.x_ (dev starting soon)
+ - _Add_: Global permission system
+ - _Add_: more GUI libraries
+ - _Add_: more rendering
+
+#### _v3.1.x_ (3.1.x released, bugfixes will be made)
  - _Add_: Fluid support for machinery
  - _Add_: Custom Effect rendering system
  - _Add_: networking cables (for OMTC)
