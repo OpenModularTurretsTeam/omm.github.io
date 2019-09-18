@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to the new page!"
+title:  "Whats next for OMT"
 date:   2019-09-18 13:00:00 +0200
 categories: update
 ---
