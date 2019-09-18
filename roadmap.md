@@ -8,21 +8,22 @@ Here is a list of planned features and changes in our mods.
 
 ## __OpenModularTurrets__
 #### _v4.0.x_
- - _Add_:Multiblock bases
- - _Add_:Turrets that require bigger bases
-
-#### _v3.2.x_ (dev starting soon)
- - _Add_: Global permission system (via OMLib)
- - _Add_: new AI for Turrets
- - _Change_: laser effect enhancements
- - _Change_: smoke for the railgun
- - ___Possible:___ (if the models/textures are ready when the rest is)
- - _Add_: Melee Turret (Tier 1) (1 range medium damage offensive turret)
- - _Add_: Repelling Turret (Tier 3) (Entity pushing utility turret)
- - _Add_: Tractor Turret (Tier 3) (Entity pulling utility turret)
- - _Add_: Arc Turret (Tier 4) (Multi target offensive turret)
- - _Add_: Plasma Turret (Tier 5) (Medium damage, low firerate, small AOE offensive  turret)
- - _Add_: Particle Beam Turret (Tier 5) (Very high damage, very low firerate, large AOE offensive turret)
+- _Add_: multiblock bases
+- _Add_: 5 new turrets, for details see below
+- _Add_: new targeting system for turrets (**WIP**)
+- _Add_: Valkyrien Warfare compatability (**WIP**)
+- _Add_: Securicraft compatability (**WIP**)
+- _Add_: config list for forcing entities to be regarded as hostile/neutral (**WIP**)
+- _Add_: 3 more targeting related OC+CC functions (**WIP**)
+- _Change_: some turrets/addons will need certain size/features of multiblock base
+- _Change_: some turrets functionality might be reworked bit
+- _Change_: replace upgrade (not addon) system with attachments/blocks for turret bases
+- _Add_: Melee Turret (Tier 1) (1 range medium damage offensive turret)
+- _Add_: Repelling Turret (Tier 3) (Entity pushing utility turret)
+- _Add_: Tractor Turret (Tier 3) (Entity pulling utility turret)
+- _Add_: Arc Turret (Tier 4) (Multi target offensive turret)
+- _Add_: Plasma Turret (Tier 5) (Medium damage, low firerate, small AOE offensive  turret)
+- _Add_: Particle Beam Turret (Tier 5) (Very high damage, very low firerate, large AOE offensive turret)
 
 
 #### _v3.1.x_ (3.1.x released, bugfixes will be made)
